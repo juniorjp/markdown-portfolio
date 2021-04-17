@@ -1,0 +1,3 @@
+- Ruby coding
+- Read hackernews
+- Listen to music
